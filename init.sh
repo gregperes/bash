@@ -1,1 +1,1 @@
-source $HOME/.bash/scripts/prompt.sh
+source ~/.bash/scripts/prompt.sh
