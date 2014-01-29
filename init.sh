@@ -1,0 +1,1 @@
+source $HOME/.bash/scripts/prompt.sh
